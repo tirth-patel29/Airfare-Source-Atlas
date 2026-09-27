@@ -57,7 +57,8 @@ export default async function DownloadsPage() {
                 </div>
               </div>
               <a
-                href={`/api/download?file=${encodeURIComponent(file.name)}`}
+                href={`/data/${encodeURIComponent(file.name)}`}
+                download={file.name}
                 className="inline-flex h-10 shrink-0 items-center justify-center gap-2 self-start rounded-full border border-[var(--color-border)] px-4 text-sm font-medium text-[var(--color-text-primary)] no-underline transition-colors hover:bg-white sm:self-center"
               >
                 <Download className="h-4 w-4" />

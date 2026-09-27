@@ -23,9 +23,7 @@ export default async function Home() {
         <section className="card p-8" role="alert">
           <h1 className="text-xl font-semibold">Registry unavailable</h1>
           <p className="mt-2 text-sm text-[var(--color-text-secondary)]">
-            The source registry could not be loaded from the workspace data
-            folder. Check that SIH26056_airfare_source_registry.csv is present
-            beside the airfare-source-atlas project.
+            The source registry could not be loaded from /data/SIH26056_airfare_source_registry.csv.
           </p>
         </section>
       </div>
