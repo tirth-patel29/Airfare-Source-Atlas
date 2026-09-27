@@ -1,0 +1,32 @@
+[
+  {
+    "name": "SIH26056_airfare_source_registry.csv",
+    "format": "CSV",
+    "sizeBytes": 90237,
+    "sizeFormatted": "88.1 KB"
+  },
+  {
+    "name": "SIH26056_airfare_source_registry.xlsx",
+    "format": "XLSX",
+    "sizeBytes": 58792,
+    "sizeFormatted": "57.4 KB"
+  },
+  {
+    "name": "SIH26056_India_Airlines.csv",
+    "format": "CSV",
+    "sizeBytes": 7477,
+    "sizeFormatted": "7.3 KB"
+  },
+  {
+    "name": "SIH26056_India_OTAs.csv",
+    "format": "CSV",
+    "sizeBytes": 15542,
+    "sizeFormatted": "15.2 KB"
+  },
+  {
+    "name": "SIH26056_Metasearch_Aggregators.csv",
+    "format": "CSV",
+    "sizeBytes": 7445,
+    "sizeFormatted": "7.3 KB"
+  }
+]
